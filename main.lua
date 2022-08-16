@@ -1,3 +1,17 @@
+--[[
+
+                                  Jank AA                                  
+                            Made by bgamboe#7767                           
+                   https://aimware.net/forum/user/403502                   
+                                                                           
+                    This shouldn't work, but it does...                    
+                        so do what yo want with it.                        
+                                                                           
+       I made this AA as a part of a private script I cant give out.       
+                        I made this part so I can.                         
+
+]]--
+
 --VARIABLES
 local sweepSwitch = 1
 local syncKnock = 20
